@@ -90,7 +90,7 @@ python main.py
 
 The system successfully evolves a starting molecule into a modified version with **higher predicted binding affinity**.
 
-> *(Place your `optimization_result.png` graph here after running the code.)*
+> ![Optimization Result](optimization_result.png)
 
 ---
 
