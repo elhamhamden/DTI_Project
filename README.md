@@ -93,7 +93,20 @@ The system successfully evolves a starting molecule into a modified version with
 > ![Optimization Result](optimization_result.png)
 
 ---
+## 📄 Citation
+If you find this project useful in your research, please consider citing our paper:
 
+<br>
+<div align="center">
+  <h3>📄 Read the Research Paper</h3>
+  <p>Discover the details behind the MolLoop algorithm and our methodology.</p>
+  <a href="https://drive.google.com/file/d/1D4NB6c04PF5VNBNOLob8FEaydz4b32un/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View_PDF-MollLoop_Paper-b31b1b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Paper" />
+  </a>
+</div>
+<br>
+
+---
 ## 🔮 Future Work
 
 * [ ] Replace random mutation with **GANs** for de novo drug design.
